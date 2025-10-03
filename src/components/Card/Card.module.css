@@ -20,3 +20,9 @@ padding: 0 1em;
 .favoritar {
     width: 25px;
 }
+
+.link {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
